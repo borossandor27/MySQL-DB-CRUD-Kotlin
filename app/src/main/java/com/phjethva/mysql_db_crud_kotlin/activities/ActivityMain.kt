@@ -18,10 +18,7 @@ import android.view.Gravity
 import android.view.View
 import android.view.Window
 import android.view.WindowManager
-import android.widget.Button
-import android.widget.EditText
-import android.widget.ImageButton
-import android.widget.TextView
+import android.widget.*
 import com.phjethva.mysql_db_crud_kotlin.R
 import com.phjethva.mysql_db_crud_kotlin.adapters.AdapterTask
 import com.phjethva.mysql_db_crud_kotlin.db.DBHelper

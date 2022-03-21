@@ -8,7 +8,6 @@ apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
 android {
-    buildToolsVersion "28.0.3"
     compileSdkVersion 28
     defaultConfig {
         applicationId "com.phjethva.mysql_db_crud_kotlin"
